@@ -1,0 +1,24 @@
+.app {
+  margin: auto;
+  width: 30%;
+  border: 3px ridge;
+}
+
+h3 {
+  background-color: rgb(235, 235, 235);
+}
+.suggestions:hover {
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+.page {
+  background-color: green;
+  color: yellow;
+}
+
+.indexcolor {
+  background-color: yellow;
+  border-color: red;
+}
